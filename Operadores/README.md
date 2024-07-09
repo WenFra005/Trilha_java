@@ -47,7 +47,7 @@ Avaliam a relação entre duas variáveis ou expressões Definem se uma variáve
 ## Tipo lógicos
 Representam o recurso que permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões. 
 
-Permite criar condições com o código ``if`` nos quais podemos determinar se a primeira condição ou segunda ou as duas condições vão retornar com valor booleano ``true`` 
+Permite criar condições com o código ``if`` nos quais podemos determinar se a primeira condição ou segunda condição ou as duas condições vão retornar com valor booleano ``true`` 
 
 |Símbolo|Operador lógico|
 |:---:|:---:|
