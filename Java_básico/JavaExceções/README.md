@@ -32,6 +32,6 @@ As palavras ``try`` e ``catch`` vêm em pares
 
 As classes que representam as exceções organizadas em uma hierarquia denominadas **Checked and Unchecked Exceptions** ou "Exceções Checadas e Não Checadas"
 
-imagem
+<img src = "https://miro.medium.com/v2/resize:fit:1147/1*zlGR-9vQMljXqaPTgGagJw.png">
 
 É possível também criar nossas próprias exceções. Veja nos arquivos "CepInvalidoException" e "FormatadorCep" localizados na pasta "MinhaExceção"
