@@ -1,4 +1,4 @@
-package Equipamentos.Digitalizadora;
-public class Scanner implements Digitalizadora {
+package Equipamentos.digitalizadora;
+public class Scanner {
 
 }

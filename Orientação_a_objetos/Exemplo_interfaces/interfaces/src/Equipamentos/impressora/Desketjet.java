@@ -1,4 +1,4 @@
-package Equipamentos.Impressora;
-public class Desketjet implements Impressora {
+package Equipamentos.impressora;
+public class Desketjet {
 
 }

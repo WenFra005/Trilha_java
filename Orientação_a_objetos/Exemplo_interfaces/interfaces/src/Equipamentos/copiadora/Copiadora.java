@@ -1,4 +1,5 @@
-package Equipamentos.Copiadora;
-public interface Copiadora {
+package Equipamentos.copiadora;
+
+public class Copiadora {
 
 }

@@ -1,4 +1,5 @@
-package Equipamentos.MultiFuncional;
+impo
+package Equipamentos.multiFuncional;
 public class EquipamentoMultifuncional {
 
 }

@@ -1,4 +1,4 @@
-package Equipamentos.Impressora;
-public interface Impressora {
-    
+package Equipamentos.impressora;
+public class Impressora {
+
 }

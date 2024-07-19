@@ -1,5 +1,5 @@
-package Equipamentos.Digitalizadora;
-public interface Digitalizadora {
+package Equipamentos.digitalizadora;
 
-    
+public class Digitalizadora {
+
 }
