@@ -76,4 +76,27 @@ O método ``sort()`` é usado para ordenar uma lista em ordem ascendente. Esse m
 
 Fornece métodos úteis para adicionar elementos em posições específicas, remover ou substituir elementos com base no índice e obter sublistas usando índices.
 
-A classe ``Collections`` fornece algoritmos úteis para manipulação de ``List``, como ordenação (``sort``), embaralhamento (``shuffle``), reversão (``reverse``), e busca binária (``binarySearch``)
+A classe ``Collections`` fornece algoritmos úteis para manipulação de ``List``, como: 
+
+* ordenação (``sort``); 
+* embaralhamento (``shuffle``); 
+* reversão (``reverse``);  
+* busca binária (``binarySearch``)
+
+### Set
+É uma coleção que não permite a inclusão de elementos duplicados. Essa interface representa o conceito matemático de um conjunto e é usada para representar conjuntos, como um baralho de cartas.
+
+Não permite acesso aleatório da um elemento na criação. Para percorrer os elementos de um ``Set``, você pode usar um iterador ou um loop foreach.
+
+### Map
+É usada para mapear dados na forma de chaves e valores. É um objeto que mapeia chaves para valores.
+
+Um ``Map`` não pode conter chaves duplicadas: cada chave pode mapear para no máximo um valor. A plataforma Java possui três implementações gerais de ``Map``: ``HashMap``, ``TreeMap`` e ``LinkedHashMap``.
+
+As operações básicas do ``Map`` são: 
+* ``put`` (inserir); 
+* ``get`` (obter); 
+* ``containsKey`` (verificar se contém uma chave); 
+* ``containsValue`` (verificar se contém um valor); 
+* ``size`` (obter o tamanho); 
+* ``isEmpty`` (verificar se está vazio)
