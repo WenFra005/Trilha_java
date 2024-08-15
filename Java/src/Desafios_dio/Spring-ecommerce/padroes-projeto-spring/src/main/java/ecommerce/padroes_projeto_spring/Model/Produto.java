@@ -1,23 +1,23 @@
-package ecommerce.padroes_projeto_spring.Model;
+package ecommerce.padroes_projeto_spring.model;
 
 public class Produto {
 
     private String nome;
-    private double preço;
-    
+    private double preco;
+
     public String getNome() {
         return nome;
     }
     public void setNome(String nome) {
         this.nome = nome;
     }
-    public double getPreço() {
-        return preço;
+    public double getPreco() {
+        return preco;
     }
-    public void setPreço(double preço) {
-        this.preço = preço;
+    public void setPreco(double preco) {
+        this.preco = preco;
     }
 
-    
+
 
 }
